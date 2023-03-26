@@ -1,0 +1,3 @@
+class BaseCfg:
+    pass
+
